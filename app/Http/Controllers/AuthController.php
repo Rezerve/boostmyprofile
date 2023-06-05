@@ -17,7 +17,8 @@ class AuthController extends Controller
             'username' => 'required',
             'password' => 'required'
         ]);
-        
+
+        $test = "test";
 
     }
 }
